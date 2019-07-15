@@ -16,6 +16,11 @@ Give three angles, print out which kind of triangle you have:
 * Acute Triangle
 * Obtuse Triangle
 
+# Issues
+Use these issues as you start working, they also include some help to get started.
+
+https://github.com/andershedberg/testdrivengit/issues
+
 #Shoot the team in the foot with git
 How many persons can use git with a single master-branch before it breaks down?
 
