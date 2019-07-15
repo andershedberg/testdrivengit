@@ -1,7 +1,7 @@
 # testdrivengit
 An introduction where a team can shoot itself in the foot with git OR focus on testdriven system
 
-#Task
+# Task
 Classify triangles!
 
 http://www.mathwarehouse.com/geometry/triangles/triangle-types.php
@@ -21,7 +21,8 @@ Use these issues as you start working, they also include some help to get starte
 
 https://github.com/andershedberg/testdrivengit/issues
 
-#Shoot the team in the foot with git
+
+# Shoot the team in the foot with git
 How many persons can use git with a single master-branch before it breaks down?
 
 1) x = 1
