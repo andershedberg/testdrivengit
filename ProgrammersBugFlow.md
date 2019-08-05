@@ -30,7 +30,7 @@
 * Ask question on Stack Overflow ( never mind the Stack Elitism jerks )
 * Ask in the github forum for help
 * Ask questions on Google business forums for Google maps
-* Ask on Facebook in Kodapor
+* Ask on Facebook in Kodapor ( read the rules first )
 * Send an email to others that use this code and seems to have solved it
 * Send an email message to the author of the code
 
