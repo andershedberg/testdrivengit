@@ -46,11 +46,11 @@
 * Mob programming
 
 **Take time of - Mental processes**
+* Get some coffee
 * Take a walk
 * Take a shower
 * Sleep on it
 * Let it rest for a while ( day, week, month )
-* Get some coffee
 
 **Giving up**
 * Choose another solution
