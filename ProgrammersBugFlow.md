@@ -57,6 +57,7 @@
 * Assign the problem to another
 * Bring in another member into the team
 * Hire a consultant
+* Pay the open source code developer of a problematic module to fix it
 
 **New code from start**
 * Write the comments for all the small parts of the total solution first, before coding.
