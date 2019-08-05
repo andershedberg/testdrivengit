@@ -41,7 +41,7 @@
 * Walk through the problem with a colleague
 * Use a white board to describe the flow
 * Describe your mental model to a colleague
-* Know all admins and functionality owners so questions can be answered quickly.
+* Know all admins and functionality owners so questions can be answered quickly
 * Pair programming
 * Mob programming
 
@@ -67,7 +67,7 @@
 **What destroys productivity**
 * Bugs
 * Meetings
-* Interruptions
+* Interruptions ( by the boss or colleagues asking questions or telling jokes )
 * Context switching
 * Hard to read code
 * Que time waiting for blocking answers from other people
