@@ -18,6 +18,8 @@
 * If a used module is not documented/maintained throw it away
 * Use another lib or write your own
 * Search relevant research when you have a bit of knowledge
+* Visit conferences on the subject
+
 
 **Asking questions**
 * Prepare question for others
@@ -42,10 +44,6 @@
 * Know all admins and functionality owners so questions can be answered quickly.
 * Pair programming
 * Mob programming
-* Assign the problem to another
-* Bring in another member into the team
-* Hire a consultant
-* Visit conferences on the subject to get personal connections
 
 **Take time of - Mental processes**
 * Take a walk
@@ -56,6 +54,9 @@
 
 **Giving up**
 * Choose another solution
+* Assign the problem to another
+* Bring in another member into the team
+* Hire a consultant
 
 **New code from start**
 * Write the comments for all the small parts of the total solution first, before coding.
@@ -70,7 +71,6 @@
 * Hard to read code
 * Que time waiting for blocking answers from other people
 
-```How would you like to be treated by your co-workers? Kindness, considerations and respect. This needs to be learnt.
-```
+```How would you like to be treated by your co-workers? Kindness, considerations and respect. This needs to be learnt.```
 
 
