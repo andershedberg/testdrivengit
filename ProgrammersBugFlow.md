@@ -55,15 +55,15 @@
 * Let it rest for a while ( day, week, month )
 * Get some coffee
 
-**Giving up
+**Giving up**
 * Choose another solution
 
-**New code from start
+**New code from start**
 * Write the comments for all the small parts of the total solution first, before coding.
 * Write the documentation first, then the tests and finally the code
 * Use pen and paper to describe the flow before coding
 
-**What destroys productivity
+**What destroys productivity**
 *Bugs
 *Meetings
 *Interuptions
